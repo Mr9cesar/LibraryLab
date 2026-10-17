@@ -1,0 +1,13 @@
+schema: spec-driven
+
+context: |
+  Escribe los artefactos en español. Conserva los encabezados estructurales
+  de OpenSpec y las palabras SHALL/MUST en inglés para la validación.
+  La raíz de LibraryLab es E:\actividades\actividad 2 urgente.
+  Todos los proyectos tienen destino .NET 8; usa C# 12, EF Core 8 y MySQL
+  8.0.16 o posterior (incluida la línea 8.4) instalado localmente. No añadas
+  Docker ni configuración de contenedores.
+  Mantén Clean Architecture y exactamente cinco ejercicios académicos:
+  Factory Method, Builder, Adapter, Decorator y Facade. Los TODO(STUDENT)
+  quedan sin implementar y sus pruebas fallan deliberadamente. No entregues
+  soluciones, pseudocódigo ni pasos algorítmicos; no debilites sus pruebas.
